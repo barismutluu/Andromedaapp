@@ -2,20 +2,20 @@
 
 ## Project Description
 
-**Andorameda App WorldPeace NFT**, kullanıcıların CW721 standardına uygun NFT koleksiyonları oluşturmasına ve bu koleksiyonları açık artırma yöntemiyle satışa sunmasına imkân tanır. Proje aynı zamanda topluluk destekli fonlama (crowdfund) yapısını da destekleyerek dijital varlıkların zincir üstü güvenli biçimde yönetilmesini sağlar.
+**Andorameda App WorldPeace NFT** allows users to create NFT collections compliant with the CW721 standard and offer them for sale via an auction-based system. The project also supports community-backed crowdfunding structures to enable secure on-chain management of digital assets.
 
 ## Key Features
 
-- ✅ NFT koleksiyonu oluşturma (CW721 standardı)
-- ✅ Açık artırma (auction) temelli satış altyapısı
-- ✅ Crowdfund desteğiyle topluluk tabanlı projeler üretme
-- ✅ Zincir üstü (on-chain) güvenli işlem altyapısı
+- ✅ Create NFT collections (CW721 standard)
+- ✅ Auction-based sales infrastructure
+- ✅ Community-driven projects with crowdfunding support
+- ✅ Secure on-chain transaction infrastructure
 
 ## Additional Features
 
-- 🌐 Andromeda protokolü ile uyumlu yapı
-- 🧩 Embed edilebilir koleksiyon görünümleri
-- 🧑‍💻 Minimalist ve kullanıcı dostu arayüz
+- 🌐 Compatible with the Andromeda protocol
+- 🧩 Embeddable collection views
+- 🧑‍💻 Minimalist and user-friendly interface
 
 ## Embeddable Links
 
@@ -24,29 +24,26 @@
 
 ## Screenshots
 
-![WorldPeace NFT Koleksiyonu](/src/screenshots/worldpeace-collection.png)
-![WorldPeace NFT Koleksiyonu](/src/screenshots/worldpeace-collectionn.png)
-
+![WorldPeace NFT Collection](/src/screenshots/worldpeace-collection.png)
+![WorldPeace NFT Collection](/src/screenshots/worldpeace-collectionn.png)
 
 ## Project Repository
 
 - 🔗 [GitHub Repo](https://github.com/barismutluu/Andromedaapp.git)
 
-
 ## Project Setup / Installation Guide
 
-Projeyi yerelde çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+You can follow the steps below to run the project locally:
 
 ```bash
-# 1. Depoyu klonlayın
+# 1. Clone the repository
 git clone https://github.com/barismutluu/Andromedaapp.git
 
-# 2. Proje dizinine girin
+# 2. Navigate into the project directory
 cd Andromedaapp
 
-# 3. Gerekli bağımlılıkları yükleyin
+# 3. Install dependencies
 npm install
 
-# 4. Geliştirme sunucusunu başlatın
+# 4. Start the development server
 npm run dev
-

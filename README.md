@@ -29,7 +29,7 @@
 
 ## Project Repository
 
-- 🔗 [GitHub Repo](https://github.com/barismutluu/Andromedaapp.git)
+- 🔗 [GitHub Repo](https://github.com/barismutluu/WorldPeaceNFT.git)
 
 ## Project Setup / Installation Guide
 
@@ -37,7 +37,7 @@ You can follow the steps below to run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/barismutluu/Andromedaapp.git
+git clone https://github.com/barismutluu/WorldPeaceNFT.git
 
 # 2. Navigate into the project directory
 cd Andromedaapp
